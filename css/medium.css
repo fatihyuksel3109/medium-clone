@@ -1,0 +1,53 @@
+body {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: inherit;
+    font-size: 14px;
+}
+.abc {
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: 400;
+    letter-spacing: -0.05em  
+}  
+.eda {
+    line-height: 24px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;    
+}
+.ck {
+    font-size: 20px;
+    padding: 7px 20px 9px;
+    width: 213px;
+    font-weight: 400; 
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 24px;
+}
+.btn-dark {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #252525;
+    --bs-btn-border-color: #252525;
+    --bs-btn-hover-color: #000;
+    --bs-btn-hover-bg: #000000;
+    --bs-btn-hover-border-color: #000000;
+    --bs-btn-focus-shadow-rgb: 66,70,73;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #4d5154;
+    --bs-btn-active-border-color: #373b3e;
+    --bs-btn-active-shadow: inset 0 3px 5px rgb(0 0 0);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #212529;
+    --bs-btn-disabled-border-color: #212529;
+}
+.bg-yellow {
+    background-color:#FFC017; 
+
+}
+.border-bottom-dark {
+    border-bottom: solid 1px rgb(0, 0, 0); 
+}
+.aside {
+    text-decoration: none;
+    color:#6c757d ;
+}
+.brd-btm {
+ border-bottom: 1px solid rgba(230, 230, 230, 1);
+}
